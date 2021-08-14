@@ -1,0 +1,35 @@
+body{
+  background-color: #000;
+  font-family: "Poppins", Arial, sans-serif;
+}
+.container{
+  max-width: 1200px;
+  margin: auto;
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container .intro{
+  display: flex;
+  justify-content: center;
+}
+.label-hello{
+  font-size: 20px;
+  color: #ffbd39;
+}
+.your-name{
+  max-width: 400px;
+  font-size: 60px;
+  color: #fff;
+  margin: 20px 0; 
+}
+.your-name .title-name{
+  color: #ffbd39;
+}
+.career{
+  font-size: 60px;
+  color: #fff;
+  margin-top: 20px;
+}
