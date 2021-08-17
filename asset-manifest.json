@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tuanpenspinner.github.io/static/css/main.ca7fec1a.chunk.css",
+    "main.js": "/tuanpenspinner.github.io/static/js/main.8d42bae9.chunk.js",
+    "main.js.map": "/tuanpenspinner.github.io/static/js/main.8d42bae9.chunk.js.map",
+    "runtime-main.js": "/tuanpenspinner.github.io/static/js/runtime-main.f127e034.js",
+    "runtime-main.js.map": "/tuanpenspinner.github.io/static/js/runtime-main.f127e034.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/tuanpenspinner.github.io/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.c380e359.chunk.js": "/tuanpenspinner.github.io/static/js/2.c380e359.chunk.js",
+    "static/js/2.c380e359.chunk.js.map": "/tuanpenspinner.github.io/static/js/2.c380e359.chunk.js.map",
+    "index.html": "/tuanpenspinner.github.io/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/tuanpenspinner.github.io/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.ca7fec1a.chunk.css.map": "/tuanpenspinner.github.io/static/css/main.ca7fec1a.chunk.css.map",
+    "static/js/2.c380e359.chunk.js.LICENSE.txt": "/tuanpenspinner.github.io/static/js/2.c380e359.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f127e034.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.c380e359.chunk.js",
+    "static/css/main.ca7fec1a.chunk.css",
+    "static/js/main.8d42bae9.chunk.js"
+  ]
+}
