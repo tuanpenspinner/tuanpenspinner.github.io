@@ -23,6 +23,7 @@
         max-width: 400px;
         font-size: 60px;
         color: #fff;
+        font-weight: 800;
         .typing-custom {
           display: inline;
           .title-name {
@@ -34,6 +35,15 @@
       .career {
         font-size: 60px;
         color: #fff;
+        font-weight: 800;
+      }
+    }
+    .intro-img {
+      .slick-slider {
+        width: 400px;
+        .slick-arrow {
+          display: none !important;
+        }
       }
     }
   }
@@ -41,13 +51,34 @@
     display: flex;
     justify-content: center;
     margin-top: 50px;
-
+    .intro-img {
+      img {
+        width: 400px;
+        margin-right: 100px;
+      }
+    }
     .about-info {
-      width: 650px;
+      width: 600px;
       .about-me {
         font-size: 60px;
+        margin-bottom: 40px;
         color: #fff;
         text-shadow: 10px 0px 24px #ffbd39;
+      }
+      .item-info {
+        display: flex;
+        margin-bottom: 25px;
+        .title {
+          width: 180px;
+          display: flex;
+          align-items: center;
+          i {
+            width: 30px;
+          }
+        }
+        .content {
+          color: #ffbd39;
+        }
       }
     }
   }
