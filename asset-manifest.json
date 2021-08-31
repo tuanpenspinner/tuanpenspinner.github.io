@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/tuanpenspinner.github.io/static/css/main.0ec3894b.chunk.css",
-    "main.js": "/tuanpenspinner.github.io/static/js/main.3f77e3c2.chunk.js",
-    "main.js.map": "/tuanpenspinner.github.io/static/js/main.3f77e3c2.chunk.js.map",
-    "runtime-main.js": "/tuanpenspinner.github.io/static/js/runtime-main.f127e034.js",
-    "runtime-main.js.map": "/tuanpenspinner.github.io/static/js/runtime-main.f127e034.js.map",
-    "static/css/2.2de5e7ff.chunk.css": "/tuanpenspinner.github.io/static/css/2.2de5e7ff.chunk.css",
-    "static/js/2.ab79aa99.chunk.js": "/tuanpenspinner.github.io/static/js/2.ab79aa99.chunk.js",
-    "static/js/2.ab79aa99.chunk.js.map": "/tuanpenspinner.github.io/static/js/2.ab79aa99.chunk.js.map",
-    "index.html": "/tuanpenspinner.github.io/index.html",
-    "static/css/2.2de5e7ff.chunk.css.map": "/tuanpenspinner.github.io/static/css/2.2de5e7ff.chunk.css.map",
-    "static/css/main.0ec3894b.chunk.css.map": "/tuanpenspinner.github.io/static/css/main.0ec3894b.chunk.css.map",
-    "static/js/2.ab79aa99.chunk.js.LICENSE.txt": "/tuanpenspinner.github.io/static/js/2.ab79aa99.chunk.js.LICENSE.txt",
-    "static/media/slick-theme.css": "/tuanpenspinner.github.io/static/media/slick.c94f7671.ttf"
+    "main.css": "/static/css/main.be905609.chunk.css",
+    "main.js": "/static/js/main.3a437366.chunk.js",
+    "main.js.map": "/static/js/main.3a437366.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b89de3f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b89de3f.js.map",
+    "static/css/2.2d52dd68.chunk.css": "/static/css/2.2d52dd68.chunk.css",
+    "static/js/2.ab79aa99.chunk.js": "/static/js/2.ab79aa99.chunk.js",
+    "static/js/2.ab79aa99.chunk.js.map": "/static/js/2.ab79aa99.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2d52dd68.chunk.css.map": "/static/css/2.2d52dd68.chunk.css.map",
+    "static/css/main.be905609.chunk.css.map": "/static/css/main.be905609.chunk.css.map",
+    "static/js/2.ab79aa99.chunk.js.LICENSE.txt": "/static/js/2.ab79aa99.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.f127e034.js",
-    "static/css/2.2de5e7ff.chunk.css",
+    "static/js/runtime-main.9b89de3f.js",
+    "static/css/2.2d52dd68.chunk.css",
     "static/js/2.ab79aa99.chunk.js",
-    "static/css/main.0ec3894b.chunk.css",
-    "static/js/main.3f77e3c2.chunk.js"
+    "static/css/main.be905609.chunk.css",
+    "static/js/main.3a437366.chunk.js"
   ]
 }
